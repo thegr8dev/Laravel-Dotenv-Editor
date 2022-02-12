@@ -1,12 +1,12 @@
 {
-    "name": "jackiedo/dotenv-editor",
+    "name": "thegr8dev/dotenv-editor",
     "description": "The .env file editor tool for Laravel 5.8+",
     "license": "MIT",
     "keywords": ["laravel", "dotenv", "dotenv-editor"],
     "authors": [
         {
-            "name": "Jackie Do",
-            "email": "anhvudo@gmail.com"
+            "name": "Ankit",
+            "email": "ankitswonders@gmail.com"
         }
     ],
     "require": {
